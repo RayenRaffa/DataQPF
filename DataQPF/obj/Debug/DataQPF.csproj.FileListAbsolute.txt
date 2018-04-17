@@ -1,0 +1,15 @@
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\bin\Debug\DataQPF.exe.config
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\bin\Debug\DataQPF.exe
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\bin\Debug\DataQPF.pdb
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.csprojResolveAssemblyReference.cache
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\MainWindow.g.cs
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\App.g.cs
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF_MarkupCompile.cache
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF_MarkupCompile.lref
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\MainWindow.baml
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.g.resources
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.Properties.Resources.resources
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.csproj.GenerateResource.Cache
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.csproj.CoreCompileInputs.cache
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.exe
+C:\Users\raffa\Desktop\PCD\DataQPF\DataQPF\obj\Debug\DataQPF.pdb
