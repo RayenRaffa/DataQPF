@@ -45,7 +45,9 @@ namespace DataQPF
                 string fileName = dataFileSelectionDialog.FileName;
 
                 MessageBox.Show(fileName);
-                
+                CsvReader reader = new CsvReader(fileName);
+                Data my_data = reader.read_file();
+                my_data.data_summery(); 
             }
         }
     }
